@@ -8,4 +8,10 @@
 
 ### Introduction to notetaking
 
+# Commands that I got to use on the VACC
 
+```         
+zcat filename | head -n 4
+```
+
+This command opened a gzipped file. But don't run it without "piping" it to a `head` command
